@@ -1,5 +1,13 @@
 ### Hi there 👋
 🔭 I’m currently working on https://www.foodexpress.vercel.app/
+
+
+Some projects:
+https://react-tiempo-app.vercel.app/ (Weather Cards)
+
+
+
+Contact: julian.noya@hotmail.com
 <!--
 **julian-ncanziani/julian-ncanziani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
