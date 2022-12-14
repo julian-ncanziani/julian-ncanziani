@@ -2,7 +2,7 @@
 🔭 I’m currently working on https://www.foodexpress.vercel.app/
 
 
-Some projects:
+Some projects: <br>
 https://react-tiempo-app.vercel.app/ (Weather Cards)
 
 
