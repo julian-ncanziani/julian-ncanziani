@@ -1,7 +1,7 @@
 ### Buenas! 👋
 🔭 Soy Julian, programador Full Stack. <br> 
 Actualmente me encuentro aprendiendo TypeScript para sumar a la lista de tecnologias con las que vengo trabajando. 
-Tengo experiencia en tecnologias como : React / Redux / Sequelize / Postresql / Bootstrap / HTML / CSS / Node.js /
+Tengo experiencia en tecnologias como : React / Redux / Sequelize / Postresql / Bootstrap / HTML / CSS / Node.js / Javascript
 
 
 Algunos proyectos : <br>
