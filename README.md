@@ -17,8 +17,8 @@ Tecnologias: React / Redux / Sequelize / Postresql / HTML / CSS / Node.js / Java
 
 
 <strong> Food-expres: </strong> https://www.foodexpress.vercel.app/ <br>
-Se trata de una aplicacion de un restaurante donde podemos hacer nuestro pedido via online ademas de tener la opcion de reservar mesas y que nuestra comida se encuentre lista ni bien llegamos a comer al lugar. 
-Tecnologias que usamos en el proyecto: 
+Se trata de una aplicacion de un restaurante donde podemos hacer nuestro pedido via online ademas de tener la opcion de reservar mesas y que nuestra comida se encuentre lista ni bien llegamos a comer al lugar. <br>
+Tecnologias que usamos en el proyecto: <br>
 React / Redux / Sequelize / Postresql / Bootstrap / HTML / CSS / Node.js / Javascript / Pasarela de pagos: mercado pago,paypal / Autenticacion con Auth0
 
 
