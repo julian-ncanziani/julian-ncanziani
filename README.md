@@ -15,6 +15,11 @@ https://pi-pokemon-blush.vercel.app/ <br>
 Catalogo de pokemons donde podemos ordenarlos- filtrarlos y crear en nuestra base de datos nuevos pokemons (solo inclui los primeros 60 pokemons de una api externa https://pokeapi.co/) <br>
 Tecnologias: React / Redux / Sequelize / Postresql / HTML / CSS / Node.js / Javascript
 
+<strong>Countries </strong>:
+https://countries-ecru-three.vercel.app/ <br>
+En esta aplicacion podemos encontrar paises ordenados por Continente y si tocamos en el nombre de algun de ellos nos dara informacion general sobre ese pais.
+https://restcountries.com/ (API utilizada)
+En este proyecto use Typescript, react-redux para manejar el estado global en su version 8.0.5, react router dom v6.8.0
 
 <strong> Food-expres: </strong> https://www.foodexpress.vercel.app/ <br>
 Se trata de una aplicacion de un restaurante donde podemos hacer nuestro pedido via online ademas de tener la opcion de reservar mesas y que nuestra comida se encuentre lista ni bien llegamos a comer al lugar. <br>
