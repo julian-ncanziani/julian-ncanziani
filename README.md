@@ -1,4 +1,4 @@
-### Buenas! 👋
+### 👋 <strong>Hi!</strong> 
 🔭 Soy Julian, programador Full Stack. <br> 
 🌱Actualmente me encuentro aprendiendo TypeScript para sumar a la lista de tecnologias con las que vengo trabajando. <br>
 
@@ -13,7 +13,7 @@
 
 
 
-## <strong> Algunos proyectos : </strong> <br>
+## :books:<strong> Algunos proyectos : </strong> <br>
 <strong> Clima-x : </strong>  https://react-tiempo-app.vercel.app/ (Weather Cards) <br>
 Fue uno de mis primeros proyectos deployados. Podemos buscar diferentes ciudades alrededor del mundo y obtener los datos meteorologicos en tiempo real.
 
@@ -33,11 +33,8 @@ Se trata de una aplicacion de un restaurante donde podemos hacer nuestro pedido 
 Tecnologias que usamos en el proyecto: <br>
 React / Redux / Sequelize / Postresql / Bootstrap / HTML / CSS / Node.js / Javascript / Pasarela de pagos: mercado pago,paypal / Autenticacion con Auth0
 
-
-
-
-
-Contacto: julian.noya@hotmail.com
+## :mailbox_with_no_mail: Contacto: 
+julian.noya@hotmail.com
 <!--
 **julian-ncanziani/julian-ncanziani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
