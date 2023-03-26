@@ -2,7 +2,7 @@
 🔭 Soy Julian, programador Full Stack. <br> 
 🌱Actualmente me encuentro aprendiendo TypeScript para sumar a la lista de tecnologias con las que vengo trabajando. <br>
 
-## Habilidades Técnicas
+## :computer: Habilidades Técnicas
 
 - **Lenguajes de Programación:** JavaScript, Typescript, HTML/CSS
 - **Frameworks y Herramientas:** React, Node.js, Django, Bootstrap, Next.js
