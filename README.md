@@ -5,7 +5,7 @@
 ## :computer: Habilidades Técnicas
 
 - **Lenguajes de Programación:** JavaScript, Typescript, HTML/CSS
-- **Frameworks y Herramientas:** React, Node.js, Django, Bootstrap, Next.js
+- **Frameworks y Herramientas:** React, Node.js, Bootstrap, Next.js
 - **Bases de Datos:** MySQL, PostgreSql, MongoDB, Firebase
 - **Control de Versiones:** Git, GitHub
 - **Cloud Services:** AWS, Firebase
