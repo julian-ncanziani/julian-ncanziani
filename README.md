@@ -2,11 +2,18 @@
 🔭 Soy Julian, programador Full Stack. <br> 
 🌱Actualmente me encuentro aprendiendo TypeScript para sumar a la lista de tecnologias con las que vengo trabajando. <br>
 
-Tengo experiencia en tecnologias como : <br>
-React / Redux / Sequelize / Postresql / Bootstrap / HTML / CSS / Node.js / Javascript
+## Habilidades Técnicas
+
+- **Lenguajes de Programación:** JavaScript, Typescript, HTML/CSS
+- **Frameworks y Herramientas:** React, Node.js, Django, Bootstrap, Next.js
+- **Bases de Datos:** MySQL, PostgreSql, MongoDB, Firebase
+- **Control de Versiones:** Git, GitHub
+- **Cloud Services:** AWS, Firebase
+- **Otros:** REST APIs
 
 
-<strong> Algunos proyectos : </strong> <br>
+
+## <strong> Algunos proyectos : </strong> <br>
 <strong> Clima-x : </strong>  https://react-tiempo-app.vercel.app/ (Weather Cards) <br>
 Fue uno de mis primeros proyectos deployados. Podemos buscar diferentes ciudades alrededor del mundo y obtener los datos meteorologicos en tiempo real.
 
