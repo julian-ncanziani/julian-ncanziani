@@ -1,5 +1,5 @@
 ### 👋 <strong>Hi!</strong> 
-🔭 Soy Julian, programador Full Stack. <br> 
+Soy Julian, programador Full Stack. <br> 
 🌱Actualmente me encuentro aprendiendo TypeScript para sumar a la lista de tecnologias con las que vengo trabajando. <br>
 
 ## :computer: Habilidades Técnicas
