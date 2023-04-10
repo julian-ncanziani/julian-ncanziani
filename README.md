@@ -29,7 +29,8 @@ https://restcountries.com/ (API utilizada)
 En este proyecto use Typescript, react-redux para manejar el estado global en su version 8.0.5, react router dom v6.8.0, y tailwind para darle estilos.
 
 <strong> Food-expres: </strong> https://www.foodexpress.vercel.app/ <br>
-Se trata de una aplicacion de un restaurante donde podemos hacer nuestro pedido via online ademas de tener la opcion de reservar mesas y que nuestra comida se encuentre lista ni bien llegamos a comer al lugar. <br>
+Este es un proyecto grupal que forme parte cuando cursaba en Henry.
+Se trata de una aplicacion para un restaurante donde podemos hacer nuestro pedido via online y ademas tenemos la opcion de reservar una mesa y que nuestra comida se encuentre lista ni bien llegamos a comer al lugar. <br>
 Tecnologias que usamos en el proyecto: <br>
 React / Redux / Sequelize / Postresql / Bootstrap / HTML / CSS / Node.js / Javascript / Pasarela de pagos: mercado pago,paypal / Autenticacion con Auth0
 
