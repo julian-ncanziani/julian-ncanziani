@@ -31,8 +31,13 @@ En este proyecto use Typescript, react-redux para manejar el estado global en su
 <strong> Food-expres: </strong> https://www.foodexpress.vercel.app/ <br>
 Este es un proyecto grupal del cual forme parte mientras estudiaba en Henry.<br>
 Se trata de una aplicacion para un restaurante donde podemos hacer nuestro pedido via online y ademas tenemos la opcion de reservar una mesa y que nuestra comida se encuentre lista ni bien llegamos a comer al lugar. <br>
-Tecnologias que usamos en el proyecto: <br>
+Tecnologias: <br>
 React / Redux / Sequelize / Postresql / Bootstrap / HTML / CSS / Node.js / Javascript / Pasarela de pagos: mercado pago,paypal / Autenticacion con Auth0
+
+<strong>Agenda de contactos</strong> https://free-code-app.vercel.app/ <br>
+Proyecto individual el cual nos va a servir como agenda de contactos.<br>
+Tecnologias: <br>
+React, Nextjs, Autenticacion y almacenamiento de datos con Firebase, estilos con html/css.
 
 ## :mailbox_with_no_mail: Contacto: 
 julian.noya@hotmail.com
