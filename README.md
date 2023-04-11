@@ -16,7 +16,8 @@ Actualmente me encuentro aprendiendo TypeScript para sumar a la lista de tecnolo
 ## :books:<strong> Algunos proyectos : </strong> <br>
 <strong> Clima-x : </strong>(Weather Cards) <br>
 https://react-tiempo-app.vercel.app/  <br>
-Fue uno de mis primeros proyectos deployados. Podemos buscar diferentes ciudades alrededor del mundo y obtener los datos meteorologicos en tiempo real.
+Fue uno de mis primeros proyectos deployados. Podemos buscar diferentes ciudades alrededor del mundo y obtener los datos meteorologicos en tiempo real.<br>
+Api que use en el proyecto: https://openweathermap.org
 
 <strong> Pokedex-app: </strong><br>
 https://pi-pokemon-blush.vercel.app/ <br>
