@@ -17,24 +17,24 @@ Actualmente me encuentro aprendiendo TypeScript para sumar a la lista de tecnolo
 <strong> Clima-x : </strong>  https://react-tiempo-app.vercel.app/ (Weather Cards) <br>
 Fue uno de mis primeros proyectos deployados. Podemos buscar diferentes ciudades alrededor del mundo y obtener los datos meteorologicos en tiempo real.
 
-<strong> Pokedex-app: </strong>
+<strong> Pokedex-app: </strong><br>
 https://pi-pokemon-blush.vercel.app/ <br>
 Catalogo de pokemons donde podemos ordenarlos- filtrarlos y crear en nuestra base de datos nuevos pokemons (solo inclui los primeros 60 pokemons de una api externa https://pokeapi.co/) <br>
 Tecnologias: React / Redux / Sequelize / Postresql / HTML / CSS / Node.js / Javascript
 
-<strong>Countries </strong>:
+<strong>Countries: </strong><br>
 https://countries-ecru-three.vercel.app/ <br>
 En esta aplicacion podemos encontrar paises ordenados por Continente y si tocamos en el nombre de algun de ellos nos dara informacion general sobre ese pais.
 https://restcountries.com/ (API utilizada)
 En este proyecto use Typescript, react-redux para manejar el estado global en su version 8.0.5, react router dom v6.8.0, y tailwind para darle estilos.
 
-<strong> Food-expres: </strong> https://www.foodexpress.vercel.app/ <br>
+<strong> Food-expres: </strong><br> https://www.foodexpress.vercel.app/ <br>
 Este es un proyecto grupal del cual forme parte mientras estudiaba en Henry.<br>
 Se trata de una aplicacion para un restaurante donde podemos hacer nuestro pedido via online y ademas tenemos la opcion de reservar una mesa y que nuestra comida se encuentre lista ni bien llegamos a comer al lugar. <br>
 Tecnologias: <br>
 React / Redux / Sequelize / Postresql / Bootstrap / HTML / CSS / Node.js / Javascript / Pasarela de pagos: mercado pago,paypal / Autenticacion con Auth0
 
-<strong>Agenda de contactos</strong> https://free-code-app.vercel.app/ <br>
+<strong>Agenda de contactos:</strong><br> https://free-code-app.vercel.app/ <br>
 Proyecto individual el cual nos va a servir como agenda de contactos.<br>
 Tecnologias: <br>
 React, Nextjs, Autenticacion y almacenamiento de datos con Firebase, estilos con html/css.
