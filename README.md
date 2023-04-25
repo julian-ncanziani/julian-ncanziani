@@ -19,10 +19,16 @@ https://react-tiempo-app.vercel.app/  <br>
 Fue uno de mis primeros proyectos deployados. Podemos buscar diferentes ciudades alrededor del mundo y obtener los datos meteorologicos en tiempo real.<br>
 Api que use en el proyecto: https://openweathermap.org
 
+<!--
 <strong> Pokedex-app: </strong><br>
 https://pi-pokemon-blush.vercel.app/ <br>
 Catalogo de pokemons donde podemos ordenarlos- filtrarlos y crear en nuestra base de datos nuevos pokemons (solo inclui los primeros 60 pokemons de una api externa https://pokeapi.co/) <br>
 Tecnologias: React / Redux / Sequelize / Postresql / HTML / CSS / Node.js / Javascript
+-->
+<strong> ClasesNotation: </strong>(Weather Cards) <br>
+https://clases-app.vercel.app/login <br>
+Aplicacion Web que sirve como anotador para llevar una gestion de las clases que voy dando a lo largo del año. <br>
+Tecnologias: React / Next.js / HTML / CSS / Node.js / Javascript / Firebase(Cloud para almacenar datos) y Firebase Auth (autenticacion de usuario)
 
 <strong>Countries: </strong><br>
 https://countries-ecru-three.vercel.app/ <br>
