@@ -47,12 +47,12 @@ En esta aplicacion podemos encontrar paises ordenados por Continente y si tocamo
 https://restcountries.com/ (API utilizada)
 En este proyecto use Typescript, react-redux para manejar el estado global en su version 8.0.5, react router dom v6.8.0, y tailwind para darle estilos.
 
-
+<!--
 <strong>Agenda de contactos:</strong><br> https://free-code-app.vercel.app/ <br>
 Proyecto individual el cual nos va a servir como agenda de contactos.<br>
 Tecnologias: <br>
 React, Nextjs, Autenticacion y almacenamiento de datos con Firebase, estilos con html/css.
-
+-->
 ## :mailbox_with_no_mail: Contacto: 
 julian.noya@hotmail.com
 <!--
