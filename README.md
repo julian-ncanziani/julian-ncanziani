@@ -22,7 +22,7 @@ Tecnologias: <br>
 React / Redux / Sequelize / Postresql / Bootstrap / HTML / CSS / Node.js / Javascript / Pasarela de pagos: mercado pago,paypal / Autenticacion con Auth0
 
 
-<strong> ClasesNotation: </strong> <br>
+<strong> Class Schedule: </strong> <br>
 https://clases-app.vercel.app/login <br>
 Aplicacion Web que sirve como anotador para llevar una gestion de las clases que voy dando a lo largo del año. <br>
 Tecnologias: React / Next.js / HTML / CSS / Node.js / Javascript / Firebase(Cloud para almacenar datos) y Firebase Auth (autenticacion de usuario)
