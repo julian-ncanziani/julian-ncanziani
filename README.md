@@ -23,7 +23,7 @@ React / Redux / Sequelize / Postresql / Bootstrap / HTML / CSS / Node.js / Javas
 
 
 <strong> Class Schedule: </strong> <br>
-https://clases-app.vercel.app/login <br>
+https://clases-app-2-0.vercel.app/ <br>
 Aplicacion Web que sirve como anotador para llevar una gestion de las clases que voy dando a lo largo del año. <br>
 Tecnologias: React / Next.js / HTML / CSS / Node.js / Javascript / Firebase(Cloud para almacenar datos) y Firebase Auth (autenticacion de usuario)
 
