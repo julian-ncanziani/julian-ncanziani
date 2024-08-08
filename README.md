@@ -35,7 +35,7 @@ Api que use en el proyecto: https://openweathermap.org
 -->
 
 <strong> Pokedex-app: </strong><br>
-https://pi-pokemon-blush.vercel.app/ <br>
+https://pokedex-front-steel.vercel.app/ <br>
 Catalogo de pokemons donde podemos ordenarlos- filtrarlos y crear en nuestra base de datos nuevos pokemons (solo inclui los primeros 60 pokemons de una api externa https://pokeapi.co/) <br>
 Tecnologias: React / Redux / Sequelize / Postresql / HTML / CSS / Node.js / Javascript
 
