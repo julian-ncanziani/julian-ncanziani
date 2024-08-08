@@ -27,18 +27,18 @@ https://clases-app-2-0.vercel.app/ <br>
 Aplicacion Web que sirve como anotador para llevar una gestion de las clases que voy dando a lo largo del año. <br>
 Tecnologias: React / Next.js / HTML / CSS / Node.js / Javascript / Firebase(Cloud para almacenar datos) y Firebase Auth (autenticacion de usuario)
 
-
+<!--
 <strong> Clima-x : </strong>(Weather Cards) <br>
 https://react-tiempo-app.vercel.app/  <br>
 Fue uno de mis primeros proyectos deployados. Podemos buscar diferentes ciudades alrededor del mundo y obtener los datos meteorologicos en tiempo real.<br>
 Api que use en el proyecto: https://openweathermap.org
+-->
 
-<!--
 <strong> Pokedex-app: </strong><br>
 https://pi-pokemon-blush.vercel.app/ <br>
 Catalogo de pokemons donde podemos ordenarlos- filtrarlos y crear en nuestra base de datos nuevos pokemons (solo inclui los primeros 60 pokemons de una api externa https://pokeapi.co/) <br>
 Tecnologias: React / Redux / Sequelize / Postresql / HTML / CSS / Node.js / Javascript
--->
+
 
 
 <strong>Countries: </strong><br>
@@ -54,7 +54,7 @@ Tecnologias: <br>
 React, Nextjs, Autenticacion y almacenamiento de datos con Firebase, estilos con html/css.
 -->
 ## :mailbox_with_no_mail: Contacto: 
-julian.noya@hotmail.com
+julian.canziani@gmail.com
 <!--
 **julian-ncanziani/julian-ncanziani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
