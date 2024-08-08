@@ -39,14 +39,6 @@ https://pi-pokemon-blush.vercel.app/ <br>
 Catalogo de pokemons donde podemos ordenarlos- filtrarlos y crear en nuestra base de datos nuevos pokemons (solo inclui los primeros 60 pokemons de una api externa https://pokeapi.co/) <br>
 Tecnologias: React / Redux / Sequelize / Postresql / HTML / CSS / Node.js / Javascript
 
-
-
-<strong>Countries: </strong><br>
-https://countries-ecru-three.vercel.app/ <br>
-En esta aplicacion podemos encontrar paises ordenados por Continente y si tocamos en el nombre de algun de ellos nos dara informacion general sobre ese pais.
-https://restcountries.com/ (API utilizada)
-En este proyecto use Typescript, react-redux para manejar el estado global en su version 8.0.5, react router dom v6.8.0, y tailwind para darle estilos.
-
 <!--
 <strong>Agenda de contactos:</strong><br> https://free-code-app.vercel.app/ <br>
 Proyecto individual el cual nos va a servir como agenda de contactos.<br>
