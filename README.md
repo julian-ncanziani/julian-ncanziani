@@ -4,7 +4,7 @@ Actualmente me encuentro aprendiendo TypeScript para sumar a la lista de tecnolo
 
 ## :computer: Habilidades Técnicas
 
-- **Lenguajes de Programación:** JavaScript, Typescript,Java
+- **Lenguajes de Programación:** JavaScript, Typescript, Java
 - **Frameworks y Herramientas:** React, Node.js, Bootstrap, Next.js, Nestjs
 - **Bases de Datos:** MySQL, PostgreSql, MongoDB, Firebase
 - **Control de Versiones:** Git, GitHub
