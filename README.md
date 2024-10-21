@@ -1,6 +1,5 @@
 ### 👋 <strong>Hi!</strong> 
 Soy Julian, programador Full Stack. <br> 
-Actualmente me encuentro aprendiendo TypeScript para sumar a la lista de tecnologias con las que vengo trabajando. <br>🌱
 
 ## :computer: Habilidades Técnicas
 
@@ -11,21 +10,19 @@ Actualmente me encuentro aprendiendo TypeScript para sumar a la lista de tecnolo
 - **Cloud Services:** AWS, Firebase, Google cloud
 - **Otros:** REST APIs
 
-
-
 ## :books:<strong> Algunos proyectos : </strong> <br>
 
-<strong> Food-expres: </strong><br> https://www.foodexpress.vercel.app/ <br>
-Este es un proyecto grupal del cual forme parte mientras estudiaba en Henry.<br>
-Se trata de una aplicacion para un restaurante donde podemos hacer nuestro pedido via online y ademas tenemos la opcion de reservar una mesa y que nuestra comida se encuentre lista ni bien llegamos a comer al lugar. <br>
-Tecnologias: <br>
-React / Redux / Sequelize / Postresql / Bootstrap / HTML / CSS / Node.js / Javascript / Pasarela de pagos: mercado pago,paypal / Autenticacion con Auth0
-
-
-<strong> Class Schedule: </strong> <br>
+<strong> Calendario de Reservas </strong> <br>
 https://clases-app-2-0.vercel.app/ <br>
-Aplicacion Web que sirve como anotador para llevar una gestion de las clases que voy dando a lo largo del año. <br>
-Tecnologias: React / Next.js / HTML / CSS / Node.js / Javascript / Firebase(Cloud para almacenar datos) y Firebase Auth (autenticacion de usuario)
+Esta aplicación de calendario fue desarrollada para resolver un problema real que enfrentaba un conocido en la gestión de sus clases 
+                        y reservas. 
+                        La herramienta permite a los alumnos ver de forma clara y sencilla los horarios disponibles del profesor 
+                        y reservar la clase que mejor se ajuste a sus necesidades. El sistema se conecta directamente con el Google Calendar del profesor, 
+                        sincronizando automáticamente la disponibilidad para evitar conflictos y optimizar el proceso de reserva.
+                        El profesor también tiene acceso a un sistema de gestión que almacena toda la información de las clases, 
+                        permitiéndole verificar pagos y generar reportes de facturación diarios y mensuales, 
+                        lo que facilita tanto la administración de su tiempo como el control de su negocio. <br>
+Tecnologias / librerias: - Next.js, React, Tailwind, Typescript, Mongodb, NextAuth (autenticacion)
 
 <!--
 <strong> Clima-x : </strong>(Weather Cards) <br>
