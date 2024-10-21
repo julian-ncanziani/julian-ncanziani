@@ -23,7 +23,7 @@ Esta aplicación de calendario fue desarrollada para resolver un problema real q
                         El profesor también tiene acceso a un sistema de gestión que almacena toda la información de las clases, 
                         permitiéndole verificar pagos y generar reportes de facturación diarios y mensuales, 
                         lo que facilita tanto la administración de su tiempo como el control de su negocio. <br>
-Tecnologias / librerias: - Next.js, React, Tailwind, Typescript, Mongodb, NextAuth (autenticacion)
+<strong> Tecnologias / librerias: </strong>  Next.js, React, Tailwind, Typescript, Mongodb, NextAuth (autenticacion)
 
 <!--
 <strong> Clima-x : </strong>(Weather Cards) <br>
