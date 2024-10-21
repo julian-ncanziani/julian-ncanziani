@@ -14,7 +14,7 @@ Soy Julian, programador Full Stack. <br>
 
 <strong> Calendario de Reservas </strong> <br>
 [link a calendario](https://tusclasesv.vercel.app/public/PPr5iJZiHO/6715a8c13d1f693a4982d762) <br>
-(Tener en cuenta que actualmente uso esta aplicacion, para ver si funciona el nombre del alumno deberia ser Test.)
+(Tener en cuenta que actualmente uso esta aplicacion, para ver si funciona el nombre del alumno deberia ser Test)<br>
 Esta aplicación de calendario fue desarrollada para resolver un problema real que enfrentaba un conocido en la gestión de sus clases 
                         y reservas. 
                         La herramienta permite a los alumnos ver de forma clara y sencilla los horarios disponibles del profesor 
